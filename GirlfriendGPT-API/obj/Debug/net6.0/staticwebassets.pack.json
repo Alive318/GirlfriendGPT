@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\leo-c\\Downloads\\GirlfriendGPT-API-master\\GirlfriendGPT-API-master\\GirlfriendGPT-API\\wwwroot\\img\\alex.png",
+      "PackagePath": "staticwebassets\\img\\alex.png"
+    },
+    {
+      "Id": "C:\\Users\\leo-c\\Downloads\\GirlfriendGPT-API-master\\GirlfriendGPT-API-master\\GirlfriendGPT-API\\wwwroot\\img\\alix.png",
+      "PackagePath": "staticwebassets\\img\\alix.png"
+    },
+    {
+      "Id": "C:\\Users\\leo-c\\Downloads\\GirlfriendGPT-API-master\\GirlfriendGPT-API-master\\GirlfriendGPT-API\\wwwroot\\img\\angele.png",
+      "PackagePath": "staticwebassets\\img\\angele.png"
+    },
+    {
+      "Id": "C:\\Users\\leo-c\\Downloads\\GirlfriendGPT-API-master\\GirlfriendGPT-API-master\\GirlfriendGPT-API\\wwwroot\\img\\dinsey.png",
+      "PackagePath": "staticwebassets\\img\\dinsey.png"
+    },
+    {
+      "Id": "C:\\Users\\leo-c\\Downloads\\GirlfriendGPT-API-master\\GirlfriendGPT-API-master\\GirlfriendGPT-API\\wwwroot\\img\\jack.png",
+      "PackagePath": "staticwebassets\\img\\jack.png"
+    },
+    {
+      "Id": "C:\\Users\\leo-c\\Downloads\\GirlfriendGPT-API-master\\GirlfriendGPT-API-master\\GirlfriendGPT-API\\wwwroot\\img\\john.png",
+      "PackagePath": "staticwebassets\\img\\john.png"
+    },
+    {
+      "Id": "C:\\Users\\leo-c\\Downloads\\GirlfriendGPT-API-master\\GirlfriendGPT-API-master\\GirlfriendGPT-API\\wwwroot\\img\\jordon.png",
+      "PackagePath": "staticwebassets\\img\\jordon.png"
+    },
+    {
+      "Id": "C:\\Users\\leo-c\\Downloads\\GirlfriendGPT-API-master\\GirlfriendGPT-API-master\\GirlfriendGPT-API\\wwwroot\\img\\luna.png",
+      "PackagePath": "staticwebassets\\img\\luna.png"
+    },
+    {
+      "Id": "C:\\Users\\leo-c\\Downloads\\GirlfriendGPT-API-master\\GirlfriendGPT-API-master\\GirlfriendGPT-API\\wwwroot\\img\\makima.png",
+      "PackagePath": "staticwebassets\\img\\makima.png"
+    },
+    {
+      "Id": "C:\\Users\\leo-c\\Downloads\\GirlfriendGPT-API-master\\GirlfriendGPT-API-master\\GirlfriendGPT-API\\wwwroot\\img\\sacha.png",
+      "PackagePath": "staticwebassets\\img\\sacha.png"
+    },
+    {
+      "Id": "C:\\Users\\leo-c\\Downloads\\GirlfriendGPT-API-master\\GirlfriendGPT-API-master\\GirlfriendGPT-API\\wwwroot\\img\\sandra.png",
+      "PackagePath": "staticwebassets\\img\\sandra.png"
+    },
+    {
+      "Id": "C:\\Users\\leo-c\\Downloads\\GirlfriendGPT-API-master\\GirlfriendGPT-API-master\\GirlfriendGPT-API\\wwwroot\\img\\sneako.png",
+      "PackagePath": "staticwebassets\\img\\sneako.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.GirlfriendGPT-API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.GirlfriendGPT-API.props",
+      "PackagePath": "build\\GirlfriendGPT-API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.GirlfriendGPT-API.props",
+      "PackagePath": "buildMultiTargeting\\GirlfriendGPT-API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.GirlfriendGPT-API.props",
+      "PackagePath": "buildTransitive\\GirlfriendGPT-API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
